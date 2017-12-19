@@ -3,8 +3,8 @@
 
 /* Calculator Box*/
 .box {
-	background-color:blue;
-	height: 300px;
+	background-image:url("lilpump2.jpg");
+	height: 350px;
 	width: 250px;
 	border-radius: 10px;
 	position: relative;

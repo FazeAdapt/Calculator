@@ -19,4 +19,8 @@ function e() {
 		d("Error");
 	}
 }
-		
+
+function absolute() {
+	e();
+	d(val);
+}
